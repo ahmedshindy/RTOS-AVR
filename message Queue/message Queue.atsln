@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "message Queue", "message Queue\message Queue.cproj", "{977E588E-5A0F-4EC4-B5F8-4E62CD992677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{977E588E-5A0F-4EC4-B5F8-4E62CD992677}.Debug|AVR.ActiveCfg = Debug|AVR
+		{977E588E-5A0F-4EC4-B5F8-4E62CD992677}.Debug|AVR.Build.0 = Debug|AVR
+		{977E588E-5A0F-4EC4-B5F8-4E62CD992677}.Release|AVR.ActiveCfg = Release|AVR
+		{977E588E-5A0F-4EC4-B5F8-4E62CD992677}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

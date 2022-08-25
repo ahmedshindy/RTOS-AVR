@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Mutual  Exclusion 2", "Mutual  Exclusion 2\Mutual  Exclusion 2.cproj", "{80EDF84D-7C3D-46A7-80EC-372EB80919AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80EDF84D-7C3D-46A7-80EC-372EB80919AE}.Debug|AVR.ActiveCfg = Debug|AVR
+		{80EDF84D-7C3D-46A7-80EC-372EB80919AE}.Debug|AVR.Build.0 = Debug|AVR
+		{80EDF84D-7C3D-46A7-80EC-372EB80919AE}.Release|AVR.ActiveCfg = Release|AVR
+		{80EDF84D-7C3D-46A7-80EC-372EB80919AE}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
